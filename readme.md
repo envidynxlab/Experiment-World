@@ -1,7 +1,7 @@
 ## Physical experiment to explore washover formation in non-built & built environments
 
 # Code for data organisation & analysis
-This repository includes code for organising & plotting (some of) the experimental results, and for comparison with other datasets of real washover deposits.
+This repository includes code for organising & plotting (some of) the experimental results described in Lazarus, Williams & Goldstein (preprint: https://doi.org/10.31223/X5JH1X), and for comparison with other datasets of real washover deposits.
 
 The code is also available here:
 
