@@ -1,15 +1,17 @@
-## Physical experiment to explore washover formation in non-built & built environments
+# Analysis of Physical experiment data to explore washover formation in non-built & built environments
 
-# Code for data organisation & analysis
-This repository includes code for organising & plotting (some of) the experimental results described in Lazarus, Williams & Goldstein (preprint: https://doi.org/10.31223/X5JH1X), and for comparison with other datasets of real washover deposits.
+This repository includes code for organising & plotting (some of) the experimental results
 
-The code is also available here:
+Preprint:
+[![Earth ArXiv Preprint
+DOI](https://img.shields.io/badge/%F0%9F%8C%8D%F0%9F%8C%8F%F0%9F%8C%8E%20EarthArXiv-doi.org%2F10.31223%2FX5JH1X-%23FF7F2A)](https://doi.org/10.31223/X5JH1X)
 
-Lazarus, E. D., Goldstein, E. B., & Williams, H. E. (2022b). Code for 'Volume estimation from planform characteristics of washover morphology' [code]. Zenodo. https://doi.org/10.5281/zenodo.6641396
+Code DOI: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6641396.svg)](https://doi.org/10.5281/zenodo.6641396)
 
 
 
-# Description of the experiment
+## Description of the experiment
 
 To generate a dataset of model washover morphology for comparison against remotely sensed observations at the field scale, we conducted a physical experiment that examined under controlled conditions how washover morphology manifest in non-built and built settings under the same forcing.
 
