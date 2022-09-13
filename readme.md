@@ -29,6 +29,6 @@ REFERENCES
 
 Lazarus, E. D. (2016). Scaling laws for coastal overwash morphology. Geophysical Research Letters, 43, 113–119. https://doi.org/10.1002/2016GL071213
 
-Williams, H. E., Lazarus, E. D., & Goldstein, E. B. (2022) Data and morphometric results from a physical experiment simulating washover deposition [data set]. Zenodo, https://doi.org/10.5281/zenodo.6640209
+Williams, H. E., Lazarus, E. D., & Goldstein, E. B. (2022) Data and morphometric results from a physical experiment simulating washover deposition [data set]. Zenodo, https://doi.org/10.5281/zenodo.7075282
 
 
